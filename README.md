@@ -1,5 +1,4 @@
-### System.out.println ("Hello, World!")
---> I'm Brena Marques a programming enthusiast and here's a little bit of what I've been programming. 🤖
+### I'm a programming enthusiast and here's a little bit of what I've been programming. 🤖
 
 <!--
 **Brena1707/brena1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
