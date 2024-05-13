@@ -1,7 +1,7 @@
 ### I'm a programming enthusiast and here's a little bit of what I've been programming. 🤖
 
 <!--
-**Brena1707/brena1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brenamarquees/brenamarquees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Brena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Brena-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Brena-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Brena-pic" height="200" width="200" src="https://github.com/Brena1707/Brena1707/blob/main/me.gif">
+  <img align="right" alt="Brena-pic" height="200" width="200" src="https://github.com/brenamarquees/brenamarquees/blob/main/me.gif">
 </div>
 
   ##
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   <a href = "mailto:brenamarq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brenamarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Brena1707/Brena1707/blob/main/snake.svg)
+  ![Snake animation](https://github.com/brenamarquees/brenamarquees/blob/main/snake.svg)
  
 </div>
